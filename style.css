@@ -303,4 +303,15 @@ footer .linha2 a:hover {
         font-size: 17px;
     }
 
+    /* Footer */
+
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    footer .address{
+        width: 95%;
+        margin-bottom: 25px;
+    }
+
 }
